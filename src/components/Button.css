@@ -1,0 +1,18 @@
+.button-wrapper {
+    
+    height: 2.5em;
+    width: 1.75em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    background-color: rgb(60, 255, 0);
+    font-weight: lighter;
+    color: black;
+    flex: 1;
+    font-size: 3em;
+    outline: 1px solid black;
+}
+
+
+
